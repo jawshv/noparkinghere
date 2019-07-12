@@ -1,4 +1,4 @@
 # noparkinghere
 
 
-Parking is theft!
+Let's build homes for people not cars.
