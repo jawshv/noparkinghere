@@ -1,0 +1,9 @@
+name: noparkinghere
+static_sites:
+  - name: website
+    github:
+      repo: jawshv/noparkinghere
+      branch: master
+      deploy_on_push: true
+    source_dir: /
+    environment_slug: html
